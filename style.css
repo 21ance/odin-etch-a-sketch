@@ -43,20 +43,6 @@ main {
     height: 100%;
 }
 
-.defaultHover {
-    background-color: #000;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-.tempRGB {
-    background-color: rgb(235, 28, 28);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-.eraserHover {
-    background-color: #FFF;
-}
-
 button {
     background-color: #A5A58D;
     padding: 7px 12px;
@@ -89,6 +75,8 @@ button:hover, .button-clicked {
     border: 1px solid #000;
 }
 
-.white {
-    background-color: #FFF;
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
