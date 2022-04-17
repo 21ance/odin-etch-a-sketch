@@ -1,5 +1,5 @@
 # Etch a Sketch
-Hello, this is an etch-a-sketch project developed using JavaScript. The use can *draw* on the sketch by hovering the mouse. For now there are two available hover effects, the default black, and rainbow (random colors). The user can also use an eraser, or the clear button to remove the hovered colors. There are three available grid sizes: 10x10, 20x20, and 30x30.
+Hello, this is an etch-a-sketch project developed using JavaScript. The user can *draw* on the sketch by hovering the mouse. For now there are two available hover effects, the default black, and rainbow (random colors). The user can also use an eraser, or the clear button to remove the hovered colors. There are three available grid sizes: 10x10, 20x20, and 30x30.
 
 ------------
 #### How I approached this project
