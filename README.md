@@ -18,5 +18,6 @@ Hello, this is an etch-a-sketch project developed using JavaScript. The use can 
 ------------
 #### Conclusion
 This was a fun project. I was able to utilize DOM manipulation which is relatively satisfying. I will come back soon to apply my points for improvement. 
+
 ------------
 [Live Demo](https://21ance.github.io/odin-etch-a-sketch/ "Live")
